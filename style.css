@@ -1,0 +1,27 @@
+@charset "utf-8";
+html {
+  font-size: 100%;
+}
+
+body {
+  background-color: #f5f2e5;
+  background-image: url(images/bg.png);
+  background-repeat: repeat;
+
+
+}
+h1 {
+  font-size: 2rem;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  background-color: #faa;
+
+}
+
+
+
+p {
+  font-family: "ヒラギノ丸ゴ　Pro w4","Hiragino Maru Gothic Pro",sans-serif;
+  line-height: normal;
+  text-align: justify;
+
+}
